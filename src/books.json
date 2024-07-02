@@ -1,0 +1,464 @@
+[
+	{
+		"title": "Księga Rodzaju",
+		"abbreviation": ["Rdz"],
+		"chapterCount": "50",
+		"urlSegment": "rodzaju",
+		"name": "Rodzaju"
+	},
+	{
+		"title": "Księga Wyjścia",
+		"abbreviation": ["Wj"],
+		"chapterCount": "40",
+		"urlSegment": "Wyjścia",
+		"name": "Wyjścia"
+	},
+	{
+		"title": "Księga Kapłańska",
+		"abbreviation": ["Kpł"],
+		"chapterCount": "27",
+		"urlSegment": "Kapłańska",
+		"name": "Kapłańska"
+	},
+	{
+		"title": "Księga Liczb",
+		"abbreviation": ["Lb"],
+		"chapterCount": "36",
+		"urlSegment": "liczb",
+		"name": "Liczb"
+	},
+	{
+		"title": "Księga Powtórzonego Prawa",
+		"abbreviation": ["Pwt"],
+		"chapterCount": "34",
+		"urlSegment": "Powtórzonego-Prawa",
+		"name": "Powtórzonego Prawa"
+	},
+	{
+		"title": "Księga Jozuego",
+		"abbreviation": ["Joz"],
+		"chapterCount": "24",
+		"urlSegment": "jozuego",
+		"name": "Jozuego"
+	},
+	{
+		"title": "Księga Sędziów",
+		"abbreviation": ["Sdz"],
+		"chapterCount": "21",
+		"urlSegment": "Sędziów",
+		"name": "Sędziów"
+	},
+	{
+		"title": "Księga Rut",
+		"abbreviation": ["Rut"],
+		"chapterCount": "4",
+		"urlSegment": "rut",
+		"name": "Rut"
+	},
+	{
+		"title": "Pierwsza Księga Samuela",
+		"abbreviation": ["1Sm"],
+		"chapterCount": "31",
+		"urlSegment": "1-samuela",
+		"name": "1 Samuela"
+	},
+	{
+		"title": "Druga Księga Samuela",
+		"abbreviation": ["2Sm"],
+		"chapterCount": "24",
+		"urlSegment": "2-samuela",
+		"name": "2 Samuela"
+	},
+	{
+		"title": "Pierwsza Księga Królów",
+		"abbreviation": ["1Kl"],
+		"chapterCount": "22",
+		"urlSegment": "1-Królów",
+		"name": "1 Królów"
+	},
+	{
+		"title": "Druga Księga Królów",
+		"abbreviation": ["2Kl"],
+		"chapterCount": "25",
+		"urlSegment": "2-Królów",
+		"name": "2 Królów"
+	},
+	{
+		"title": "Pierwsza Księga Kronik",
+		"abbreviation": ["1Kn"],
+		"chapterCount": "29",
+		"urlSegment": "1-kronik",
+		"name": "1 Kronik"
+	},
+	{
+		"title": "Druga Księga Kronik",
+		"abbreviation": ["2Kn"],
+		"chapterCount": "36",
+		"urlSegment": "2-kronik",
+		"name": "2 Kronik"
+	},
+	{
+		"title": "Księga Ezdrasza",
+		"abbreviation": ["Ezd"],
+		"chapterCount": "10",
+		"urlSegment": "ezdrasza",
+		"name": "Ezdrasza"
+	},
+	{
+		"title": "Księga Nehemiasza",
+		"abbreviation": ["Neh"],
+		"chapterCount": "13",
+		"urlSegment": "nehemiasza",
+		"name": "Nehemiasza"
+	},
+	{
+		"title": "Księga Estery",
+		"abbreviation": ["Est"],
+		"chapterCount": "10",
+		"urlSegment": "estery",
+		"name": "Estery"
+	},
+	{
+		"title": "Księga Hioba",
+		"abbreviation": ["Hi"],
+		"chapterCount": "42",
+		"urlSegment": "hioba",
+		"name": "Hioba"
+	},
+	{
+		"title": "Psalmy",
+		"abbreviation": ["Ps"],
+		"chapterCount": "150",
+		"urlSegment": "psalmy",
+		"name": "Psalmy"
+	},
+	{
+		"title": "Księga Przysłów",
+		"abbreviation": ["Prz"],
+		"chapterCount": "31",
+		"urlSegment": "Przysłów",
+		"name": "Przysłów"
+	},
+	{
+		"title": "Księga Kaznodziei",
+		"abbreviation": ["Kzn"],
+		"chapterCount": "12",
+		"urlSegment": "kaznodziei",
+		"name": "Kaznodziei"
+	},
+	{
+		"title": "Pieśń nad Pieśniami",
+		"abbreviation": ["PnP"],
+		"chapterCount": "8",
+		"urlSegment": "Pieśń",
+		"name": "Pieśń"
+	},
+	{
+		"title": "Księga Izajasza",
+		"abbreviation": ["Iz"],
+		"chapterCount": "66",
+		"urlSegment": "izajasza",
+		"name": "Izajasza"
+	},
+	{
+		"title": "Księga Jeremiasza",
+		"abbreviation": ["Jer"],
+		"chapterCount": "52",
+		"urlSegment": "jeremiasza",
+		"name": "Jeremiasza"
+	},
+	{
+		"title": "Lamentacje",
+		"abbreviation": ["Lam"],
+		"chapterCount": "5",
+		"urlSegment": "lamentacje",
+		"name": "Lamentacje"
+	},
+	{
+		"title": "Księga Ezechiela",
+		"abbreviation": ["Eze"],
+		"chapterCount": "48",
+		"urlSegment": "ezechiela",
+		"name": "Ezechiela"
+	},
+	{
+		"title": "Księga Daniela",
+		"abbreviation": ["Dn"],
+		"chapterCount": "12",
+		"urlSegment": "daniela",
+		"name": "Daniela"
+	},
+	{
+		"title": "Księga Ozeasza",
+		"abbreviation": ["Oz"],
+		"chapterCount": "14",
+		"urlSegment": "ozeasza",
+		"name": "Ozeasza"
+	},
+	{
+		"title": "Księga Joela",
+		"abbreviation": ["Jl"],
+		"chapterCount": "3",
+		"urlSegment": "joela",
+		"name": "Joela"
+	},
+	{
+		"title": "Księga Amosa",
+		"abbreviation": ["Am"],
+		"chapterCount": "9",
+		"urlSegment": "amosa",
+		"name": "Amosa"
+	},
+	{
+		"title": "Księga Abdiasza",
+		"abbreviation": ["Abd"],
+		"chapterCount": "1",
+		"urlSegment": "abdiasza",
+		"name": "Abdiasza"
+	},
+	{
+		"title": "Księga Jonasza",
+		"abbreviation": ["Jon"],
+		"chapterCount": "4",
+		"urlSegment": "jonasza",
+		"name": "Jonasza"
+	},
+	{
+		"title": "Księga Micheasza",
+		"abbreviation": ["Mi"],
+		"chapterCount": "7",
+		"urlSegment": "micheasza",
+		"name": "Micheasza"
+	},
+	{
+		"title": "Księga Nahuma",
+		"abbreviation": ["Nah"],
+		"chapterCount": "3",
+		"urlSegment": "nahuma",
+		"name": "Nahuma"
+	},
+	{
+		"title": "Księga Habakuka",
+		"abbreviation": ["Hab"],
+		"chapterCount": "3",
+		"urlSegment": "habakuka",
+		"name": "Habakuka"
+	},
+	{
+		"title": "Księga Sofoniasza",
+		"abbreviation": ["Sof"],
+		"chapterCount": "3",
+		"urlSegment": "sofoniasza",
+		"name": "Sofoniasza"
+	},
+	{
+		"title": "Księga Aggeusza",
+		"abbreviation": ["Ag"],
+		"chapterCount": "2",
+		"urlSegment": "aggeusza",
+		"name": "Aggeusza"
+	},
+	{
+		"title": "Księga Zachariasza",
+		"abbreviation": ["Za"],
+		"chapterCount": "14",
+		"urlSegment": "zachariasza",
+		"name": "Zachariasza"
+	},
+	{
+		"title": "Księga Malachiasza",
+		"abbreviation": ["Mal"],
+		"chapterCount": "4",
+		"urlSegment": "malachiasza",
+		"name": "Malachiasza"
+	},
+	{
+		"title": "Ewangelia według Mateusza",
+		"abbreviation": ["Mt"],
+		"chapterCount": "28",
+		"urlSegment": "mateusza",
+		"name": "Mateusza"
+	},
+	{
+		"title": "Ewangelia według Marka",
+		"abbreviation": ["Mk"],
+		"chapterCount": "16",
+		"urlSegment": "marka",
+		"name": "Marka"
+	},
+	{
+		"title": "Ewangelia według Łukasza",
+		"abbreviation": ["Łk"],
+		"chapterCount": "24",
+		"urlSegment": "Łukasza",
+		"name": "Łukasza"
+	},
+	{
+		"title": "Ewangelia według Jana",
+		"abbreviation": ["Jn"],
+		"chapterCount": "21",
+		"urlSegment": "jana",
+		"name": "Jana"
+	},
+	{
+		"title": "Dzieje Apostolskie",
+		"abbreviation": ["Dz"],
+		"chapterCount": "28",
+		"urlSegment": "dzieje",
+		"name": "Dzieje"
+	},
+	{
+		"title": "List do Rzymian",
+		"abbreviation": ["Rz"],
+		"chapterCount": "16",
+		"urlSegment": "rzymian",
+		"name": "Rzymian"
+	},
+	{
+		"title": "Pierwszy List do Koryntian",
+		"abbreviation": ["1Ko"],
+		"chapterCount": "16",
+		"urlSegment": "1-koryntian",
+		"name": "1 Koryntian"
+	},
+	{
+		"title": "Drugi List do Koryntian",
+		"abbreviation": ["2Ko"],
+		"chapterCount": "13",
+		"urlSegment": "2-koryntian",
+		"name": "2 Koryntian"
+	},
+	{
+		"title": "List do Galatów",
+		"abbreviation": ["Gal"],
+		"chapterCount": "6",
+		"urlSegment": "Galatów",
+		"name": "Galatów"
+	},
+	{
+		"title": "List do Efezjan",
+		"abbreviation": ["Ef"],
+		"chapterCount": "6",
+		"urlSegment": "efezjan",
+		"name": "Efezjan"
+	},
+	{
+		"title": "List do Filipian",
+		"abbreviation": ["Flp"],
+		"chapterCount": "4",
+		"urlSegment": "filipian",
+		"name": "Filipian"
+	},
+	{
+		"title": "List do Kolosan",
+		"abbreviation": ["Kol"],
+		"chapterCount": "4",
+		"urlSegment": "kolosan",
+		"name": "Kolosan"
+	},
+	{
+		"title": "Pierwszy List do Tesaloniczan",
+		"abbreviation": ["1Ts"],
+		"chapterCount": "5",
+		"urlSegment": "1-tesaloniczan",
+		"name": "1 Tesaloniczan"
+	},
+	{
+		"title": "Drugi List do Tesaloniczan",
+		"abbreviation": ["2Ts"],
+		"chapterCount": "3",
+		"urlSegment": "2-tesaloniczan",
+		"name": "2 Tesaloniczan"
+	},
+	{
+		"title": "Pierwszy List do Tymoteusza",
+		"abbreviation": ["1Tm"],
+		"chapterCount": "6",
+		"urlSegment": "1-tymoteusza",
+		"name": "1 Tymoteusza"
+	},
+	{
+		"title": "Drugi List do Tymoteusza",
+		"abbreviation": ["2Tm"],
+		"chapterCount": "4",
+		"urlSegment": "2-tymoteusza",
+		"name": "2 Tymoteusza"
+	},
+	{
+		"title": "List do Tytusa",
+		"abbreviation": ["Tyt"],
+		"chapterCount": "3",
+		"urlSegment": "tytusa",
+		"name": "Tytusa"
+	},
+	{
+		"title": "List do Filemona",
+		"abbreviation": ["Flm"],
+		"chapterCount": "1",
+		"urlSegment": "filemona",
+		"name": "Filemona"
+	},
+	{
+		"title": "List do Hebrajczyków",
+		"abbreviation": ["Heb"],
+		"chapterCount": "13",
+		"urlSegment": "Hebrajczyków",
+		"name": "Hebrajczyków"
+	},
+	{
+		"title": "List Jakuba",
+		"abbreviation": ["Jak"],
+		"chapterCount": "5",
+		"urlSegment": "jakuba",
+		"name": "Jakuba"
+	},
+	{
+		"title": "Pierwszy List Piotra",
+		"abbreviation": ["1Pt"],
+		"chapterCount": "5",
+		"urlSegment": "1-piotra",
+		"name": "1 Piotra"
+	},
+	{
+		"title": "Drugi List Piotra",
+		"abbreviation": ["2Pt"],
+		"chapterCount": "3",
+		"urlSegment": "2-piotra",
+		"name": "2 Piotra"
+	},
+	{
+		"title": "Pierwszy List Jana",
+		"abbreviation": ["1Jn"],
+		"chapterCount": "5",
+		"urlSegment": "1-jana",
+		"name": "1 Jana"
+	},
+	{
+		"title": "Drugi List Jana",
+		"abbreviation": ["2Jn"],
+		"chapterCount": "1",
+		"urlSegment": "2-jana",
+		"name": "2 Jana"
+	},
+	{
+		"title": "Trzeci List Jana",
+		"abbreviation": ["3Jn"],
+		"chapterCount": "1",
+		"urlSegment": "3-jana",
+		"name": "3 Jana"
+	},
+	{
+		"title": "List Judy",
+		"abbreviation": ["Judy"],
+		"chapterCount": "1",
+		"urlSegment": "judy",
+		"name": "Judy"
+	},
+	{
+		"title": "Objawienie dane Janowi",
+		"abbreviation": ["Obj"],
+		"chapterCount": "22",
+		"urlSegment": "objawienie",
+		"name": "Objawienie"
+	}
+]
