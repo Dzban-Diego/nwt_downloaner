@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/html-to-text": "^9.0.4",
+    "@types/node": "^22.0.0",
     "html-to-text": "^9.0.2"
   },
   "devDependencies": {
